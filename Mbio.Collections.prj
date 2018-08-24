@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Smoketest - Collection order workflow
+https://jira.cinteo.com/secure/Tests.jspa#/testCase/DCPS-T102</description>
+   <name>Mbio.Collections</name>
+   <tag></tag>
+   <UUID>77a3f21f-9304-4091-a5f7-9b1380255e91</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

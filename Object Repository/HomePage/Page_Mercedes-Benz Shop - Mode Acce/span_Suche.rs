@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Suche</name>
+   <tag></tag>
+   <elementGuidId>43361405-bdae-49e3-84a8-a580d88018f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//html/body/div[1]/div/div/div[1]/header-grid/div/div/div[2]/div[2]/div/div[1]/div/header-search/div/div[1]/a/span[(text() = 'Suche' or . = 'Suche')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>html/body/div[1]/div/div/div[1]/header-grid/div/div/div[2]/div[2]/div/div[1]/div/header-search/div/div[1]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>html/body/div[1]/div/div/div[1]/header-grid/div/div/div[2]/div[2]/div/div[1]/div/header-search/div/div[1]/a/span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-search-open-trigger-label ng-binding</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Suche</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js svg ng-scope&quot;]/body[1]/div[@class=&quot;shop-app ng-scope&quot;]/div[@class=&quot;dcp ng-scope&quot;]/div[1]/div[@class=&quot;view-header ng-scope&quot;]/header-grid[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;header-grid&quot;]/div[@class=&quot;container / header-grid__container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-4 col-sm-5 col-md-8 col-lg-7 / header-grid__menu ng-scope&quot;]/div[@class=&quot;header-functions hidden-print&quot;]/div[@class=&quot;header-search-wrapper ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/header-search[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;header-search / dcp-sr2&quot;]/div[@class=&quot;header-search-open-trigger&quot;]/a[1]/span[@class=&quot;header-search-open-trigger-label ng-binding&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
