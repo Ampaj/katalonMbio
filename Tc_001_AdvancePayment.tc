@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc_001_AdvancePayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75bb917f-bbff-4ee1-9aaf-19bb19833d5c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ba6ab60e-77d4-4964-815c-cc73cc375683</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
