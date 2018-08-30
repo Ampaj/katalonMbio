@@ -5,6 +5,17 @@ https://jira.cinteo.com/secure/Tests.jspa#/testCase/DCPS-T102</description>
    <name>Mbio.Collections</name>
    <tag></tag>
    <UUID>77a3f21f-9304-4091-a5f7-9b1380255e91</UUID>
-   <migratedVersion>5.4.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <recentExpandedTreeEntityIds>Test Cases</recentExpandedTreeEntityIds>
+   <recentExpandedTreeEntityIds>Test Cases/SmokeTest</recentExpandedTreeEntityIds>
+   <recentExpandedTreeEntityIds>Object Repository</recentExpandedTreeEntityIds>
+   <recentExpandedTreeEntityIds>Object Repository/HomePage</recentExpandedTreeEntityIds>
+   <recentExpandedTreeEntityIds>Test Suites</recentExpandedTreeEntityIds>
+   <recentExpandedTreeEntityIds>Reports</recentExpandedTreeEntityIds>
+   <recentExpandedTreeEntityIds>Reports/1.Advance Payment</recentExpandedTreeEntityIds>
+   <recentOpenedTreeEntityIds>Object Repository/HomePage/Collections_HomePage_ProductSearch/span_Suche</recentOpenedTreeEntityIds>
+   <recentOpenedTreeEntityIds>Object Repository/HomePage/Collections_HomePage_ProductSearch/ClickonSearch</recentOpenedTreeEntityIds>
+   <recentOpenedTreeEntityIds>Test Cases/SmokeTest/Tc_001_AdvancePayment</recentOpenedTreeEntityIds>
+   <recentOpenedTreeEntityIds>Test Suites/1.Advance Payment</recentOpenedTreeEntityIds>
+   <recentOpenedTreeEntityIds>Reports/1.Advance Payment/20180827_164416</recentOpenedTreeEntityIds>
 </Project>

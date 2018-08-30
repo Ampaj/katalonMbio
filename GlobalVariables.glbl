@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <tag></tag>
+   <GlobalVariableEntity>
+      <description>DCP</description>
+      <initValue>'https://dcp-int.mercedes-benz.com/de-de/collection/'</initValue>
+      <name>ApplicationURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test123@gmail.com'</initValue>
+      <name>UserName</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
