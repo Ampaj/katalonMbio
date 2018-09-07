@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
-   <description>Smoketest - Collection order workflow
-https://jira.cinteo.com/secure/Tests.jspa#/testCase/DCPS-T102</description>
+   <description></description>
    <name>Mbio.Collections</name>
    <tag></tag>
-   <UUID>77a3f21f-9304-4091-a5f7-9b1380255e91</UUID>
+   <UUID>667c08a9-d592-45c0-972a-8ae96ecc87b9</UUID>
+   <migratedVersion>5.7.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <recentExpandedTreeEntityIds>Test Cases</recentExpandedTreeEntityIds>
-   <recentExpandedTreeEntityIds>Test Cases/SmokeTest</recentExpandedTreeEntityIds>
-   <recentExpandedTreeEntityIds>Object Repository</recentExpandedTreeEntityIds>
-   <recentExpandedTreeEntityIds>Object Repository/HomePage</recentExpandedTreeEntityIds>
-   <recentExpandedTreeEntityIds>Test Suites</recentExpandedTreeEntityIds>
-   <recentExpandedTreeEntityIds>Reports</recentExpandedTreeEntityIds>
-   <recentExpandedTreeEntityIds>Reports/1.Advance Payment</recentExpandedTreeEntityIds>
-   <recentOpenedTreeEntityIds>Object Repository/HomePage/Collections_HomePage_ProductSearch/span_Suche</recentOpenedTreeEntityIds>
-   <recentOpenedTreeEntityIds>Object Repository/HomePage/Collections_HomePage_ProductSearch/ClickonSearch</recentOpenedTreeEntityIds>
-   <recentOpenedTreeEntityIds>Test Cases/SmokeTest/Tc_001_AdvancePayment</recentOpenedTreeEntityIds>
-   <recentOpenedTreeEntityIds>Test Suites/1.Advance Payment</recentOpenedTreeEntityIds>
-   <recentOpenedTreeEntityIds>Reports/1.Advance Payment/20180827_164416</recentOpenedTreeEntityIds>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
 </Project>
